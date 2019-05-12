@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557654264 source:c:\users\mark kou\documents\kou_guangyuan\homework9.9\main.cpp
+	<iostream>
+	"DateAndTime.h"
+
+1557654330 c:\users\mark kou\documents\kou_guangyuan\homework9.9\include\dateandtime.h
+
+1557654155 source:c:\users\mark kou\documents\kou_guangyuan\homework9.9\src\dateandtime.cpp
+	<iostream>
+	"DateAndTime.h"
+

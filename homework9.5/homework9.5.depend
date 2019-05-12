@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557578503 source:c:\users\mark kou\documents\kou_guangyuan\homework9.5\main.cpp
+	<iostream>
+	"Complex.h"
+
+1557578366 c:\users\mark kou\documents\kou_guangyuan\homework9.5\include\complex.h
+
+1557578259 source:c:\users\mark kou\documents\kou_guangyuan\homework9.5\src\complex.cpp
+	<iostream>
+	"Complex.h"
+

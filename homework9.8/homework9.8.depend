@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557653738 source:c:\users\mark kou\documents\kou_guangyuan\homework9.8\main.cpp
+	<iostream>
+	"Date.h"
+
+1557653456 c:\users\mark kou\documents\kou_guangyuan\homework9.8\include\date.h
+
+1557653577 source:c:\users\mark kou\documents\kou_guangyuan\homework9.8\src\date.cpp
+	<iostream>
+	"Date.h"
+

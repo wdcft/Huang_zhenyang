@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555573117 source:c:\users\mark kou\documents\kou_guangyuan\homework6.48\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
