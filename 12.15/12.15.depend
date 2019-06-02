@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1559451438 source:c:\users\huangzhenyang\documents\huang_zhenyang\12.15\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1559451439 c:\users\huangzhenyang\documents\huang_zhenyang\12.15\include\date.h
+	<iostream>
+
